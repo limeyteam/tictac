@@ -1,2 +1,2 @@
 # tictac
-redirect repo
+go [here](https://github.com/tictac-lang/tictac) for tictac
